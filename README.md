@@ -1,4 +1,4 @@
 file_manage
 ===========
 
-Simple and easy file manager for Android.
+Simple and easy file manager for Android!
